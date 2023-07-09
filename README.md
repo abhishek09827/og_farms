@@ -1,4 +1,4 @@
-# Organic Farming E-commerce Site
+# OG_Farms
 
 This project is an organic farming e-commerce site built using Flutter for the frontend and Node.js for the backend. It provides a platform for users to browse and purchase organic farming products.
 
