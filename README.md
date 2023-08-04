@@ -1,3 +1,5 @@
+![Screenshot 2023-08-04 122322](https://github.com/abhishek09827/og_farms/assets/107637702/c363acd4-3a8e-4562-9cbc-2c3d6ae81f85)
+![Uploading Screenshot 2023-08-04 122316.png…]()
 # OG_Farms
 
 This project is an organic farming e-commerce site built using Flutter for the frontend and Node.js for the backend. It provides a platform for users to browse and purchase organic farming products.
@@ -10,6 +12,12 @@ This project is an organic farming e-commerce site built using Flutter for the f
 - Order Management: Users can view their order history and track the status of their orders.
 - Payment Integration: Secure payment processing using popular payment gateways.
 - Admin Panel: Admins can manage products, categories, and user orders.
+![Screenshot 2023-08-04 122256](![Screenshot 2023-08-04 122345](https://github.com/abhishek09827/og_farms/assets/107637702/ddcded6f-7a08-49c7-b7e2-7009f570e570)
+![Screenshot 2023-08-04 122328](https://github.com/abhishek09827/og_farms/assets/107637702/416c4f18-70a3-43ed-8e4b-af2230cc1039)
+https://github.com/abhishek09827/og_farms/assets/107637702/025f6435-c4ab-4d05-b69c-6a275c7163c4)
+![Screenshot 2023-08-04 122322](https://github.c![Uploading Screenshot 2023-08-04 122328.png…]()
+om/abhishek09827/og_farms/assets/107637702/dcc3bbd5-ea31-400e-84e9-b6a2ad517dc1)
+![Uploading Screenshot 2023-08-04 122345.png…]()
 
 ## Technologies Used
 
